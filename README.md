@@ -53,16 +53,7 @@ A conversational assistant designed to help users retrieve information from Fren
 
 🔗 [View Repository](https://github.com/yassineallaoui4/rag-assistant-dgnti)
 
-### 🏠 Real Estate Price Estimation
-A machine learning web application demonstrating real estate price estimation using a Random Forest model and synthetic data.
 
-- Machine learning prediction pipeline
-- Flask API and web interface
-- Model evaluation and automated tests
-
-**Technologies:** Python, Scikit-learn, Flask, HTML, CSS, JavaScript
-
-🔗 [View Repository](https://github.com/yassineallaoui4/berkane-immo-ml)
 
 ### 🚦 Smart Roundabout Control with Reinforcement Learning
 A simulation-oriented project exploring adaptive traffic signal control using reinforcement learning.
@@ -74,6 +65,18 @@ A simulation-oriented project exploring adaptive traffic signal control using re
 **Technologies:** Python, Reinforcement Learning, TensorFlow/Keras, SUMO, TraCI
 
 🔗 [View Repository](https://github.com/yassineallaoui4/smart-roundabout-control-rl)
+
+
+### 🏠 Real Estate Price Estimation
+A machine learning web application demonstrating real estate price estimation using a Random Forest model and synthetic data.
+
+- Machine learning prediction pipeline
+- Flask API and web interface
+- Model evaluation and automated tests
+
+**Technologies:** Python, Scikit-learn, Flask, HTML, CSS, JavaScript
+
+🔗 [View Repository](https://github.com/yassineallaoui4/berkane-immo-ml)
 
 ---
 
