@@ -1,12 +1,11 @@
 # 👋 Hi, I'm Yassine Allaoui
 
-🎓 **Computer Science & Artificial Intelligence Graduate**  
+🎓 **Computer Science & IA Graduate**  
 🤖 Interested in Artificial Intelligence, Machine Learning, and Generative AI  
 💻 Passionate about building practical software solutions and exploring new technologies.
 
 - 📍 **Location:** Oujda, Morocco
-- 🎓 **Education:** DUT in Business Intelligence and Artificial Intelligence — EST Oujda, Université Mohammed Premier
-- 🔭 **Interests:** Generative AI, RAG systems, Machine Learning, and Reinforcement Learning
+- 🎓 **Education:** DUT in computer science and AI — EST Oujda, Université Mohammed Premier
 - 🌐 **Portfolio:** [yassine-allaoui.vercel.app](https://yassine-allaoui.vercel.app)
 
 ---
