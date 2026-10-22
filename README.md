@@ -90,13 +90,6 @@ A machine learning web application demonstrating real estate price estimation us
 
 ---
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yassineallaoui4&show_icons=true&hide_border=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yassineallaoui4&layout=compact&hide_border=true&theme=transparent)
-
----
 
 ## 📫 Contact Me
 
