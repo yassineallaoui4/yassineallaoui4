@@ -1,62 +1,106 @@
-# Bonjour, je suis Yassine Allaoui
+# 👋 Hi, I'm Yassine Allaoui
 
-### Diplômé en Informatique Décisionnelle et Intelligence Artificielle
+🎓 **Computer Science & Artificial Intelligence Graduate**  
+🤖 Interested in Artificial Intelligence, Machine Learning, and Generative AI  
+💻 Passionate about building practical software solutions and exploring new technologies.
 
-Diplômé d'un DUT en Informatique Décisionnelle et Intelligence Artificielle (IDIA) à l'École Supérieure de Technologie d'Oujda, Université Mohammed Premier, je m'intéresse aux fondements de l'informatique, aux mathématiques appliquées et à la conception de solutions logicielles intelligentes.
-
-Mon objectif est de poursuivre mon parcours académique en informatique et en ingénierie, en approfondissant mes connaissances théoriques et pratiques.
-
-## Formation et intérêts académiques
-
-- **Algorithmique et structures de données** — conception d'algorithmes et résolution de problèmes.
-- **Mathématiques pour l'informatique** — algèbre linéaire, probabilités, statistiques et optimisation.
-- **Informatique fondamentale** — complexité algorithmique, systèmes, architecture des ordinateurs et compilation.
-- **Bases de données** — modélisation, requêtes et gestion des données.
-- **Intelligence artificielle** — Machine Learning, Deep Learning et apprentissage par renforcement.
-
-*Les domaines ci-dessus représentent mes centres d'intérêt académiques. Leur niveau de maîtrise doit être apprécié à partir de mon cursus et de mes réalisations.*
-
-## Projets sélectionnés
-
-### 1. Assistant conversationnel RAG pour les documents administratifs
-
-Développement d'un assistant conversationnel permettant d'interroger des documents administratifs à l'aide du Retrieval-Augmented Generation (RAG).
-
-- **Concepts :** recherche sémantique, embeddings, segmentation de documents et génération contextualisée.
-- **Technologies :** Python, LangChain, ChromaDB, MiniLM, Groq API, PyMuPDF, Tesseract OCR et Streamlit.
-- **Dépôt :** [rag-assistant-dgnti](https://github.com/yassineallaoui4/rag-assistant-dgnti)
-
-### 2. Gestion intelligente du trafic par apprentissage par renforcement
-
-Projet consacré à l'étude de méthodes d'apprentissage par renforcement pour la gestion du trafic routier.
-
-- **Concepts :** Q-Learning, Deep Q-Networks (DQN), états, actions, récompenses et stratégie d'exploration.
-- **Technologie principale :** Python.
-- **Dépôt :** [smart-roundabout-control-rl](https://github.com/yassineallaoui4/smart-roundabout-control-rl)
-
-### 3. Estimation des prix immobiliers par Machine Learning
-
-Projet de prédiction des prix immobiliers à partir de données, en explorant les étapes de préparation des données et de modélisation.
-
-- **Domaines :** analyse de données, Machine Learning et évaluation de modèles.
-- **Dépôt :** [berkane-immo-ml](https://github.com/yassineallaoui4/berkane-immo-ml)
-
-## Compétences techniques
-
-- **Programmation :** Python.
-- **IA et données :** Machine Learning, RAG, embeddings et apprentissage par renforcement.
-- **Bases de données et recherche vectorielle :** SQL et ChromaDB, selon les projets.
-- **Développement :** Streamlit et outils Python.
-- **Outils :** Git, GitHub et environnement Python.
-
-## Ce que je souhaite approfondir
-
-Je souhaite renforcer mes bases théoriques en informatique et en mathématiques, notamment en algorithmique, structures de données, complexité, probabilités, statistiques, algèbre linéaire et optimisation, tout en développant ma capacité à concevoir des systèmes fiables et utiles.
-
-## Contact
-
-- **GitHub :** [yassineallaoui4](https://github.com/yassineallaoui4)
+- 📍 **Location:** Oujda, Morocco
+- 🎓 **Education:** DUT in Business Intelligence and Artificial Intelligence — EST Oujda, Université Mohammed Premier
+- 🔭 **Interests:** Generative AI, RAG systems, Machine Learning, and Reinforcement Learning
+- 🌐 **Portfolio:** [yassine-allaoui.vercel.app](https://yassine-allaoui.vercel.app)
 
 ---
 
-*Apprendre, comprendre les fondements, expérimenter et construire.*
+## 🛠️ Technologies & Tools
+
+**Programming Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Artificial Intelligence & Machine Learning**
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
+**Generative AI & Data**
+
+![ChromaDB](https://img.shields.io/badge/ChromaDB-5B4BDB?style=for-the-badge)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+**Tools & Development**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 RAG Assistant for Administrative Documents
+A conversational assistant designed to help users retrieve information from French and Arabic administrative documents.
+
+- PDF text extraction and OCR for scanned documents
+- Semantic search and retrieval-augmented generation
+- Source excerpts to help users locate relevant information
+
+**Technologies:** Python, LangChain, ChromaDB, Streamlit, Groq, PyMuPDF, Tesseract OCR
+
+🔗 [View Repository](https://github.com/yassineallaoui4/rag-assistant-dgnti)
+
+### 🏠 Real Estate Price Estimation
+A machine learning web application demonstrating real estate price estimation using a Random Forest model and synthetic data.
+
+- Machine learning prediction pipeline
+- Flask API and web interface
+- Model evaluation and automated tests
+
+**Technologies:** Python, Scikit-learn, Flask, HTML, CSS, JavaScript
+
+🔗 [View Repository](https://github.com/yassineallaoui4/berkane-immo-ml)
+
+### 🚦 Smart Roundabout Control with Reinforcement Learning
+A simulation-oriented project exploring adaptive traffic signal control using reinforcement learning.
+
+- Q-Learning and Double DQN approaches
+- Traffic simulation with SUMO and TraCI
+- Exploration of adaptive decision-making strategies
+
+**Technologies:** Python, Reinforcement Learning, TensorFlow/Keras, SUMO, TraCI
+
+🔗 [View Repository](https://github.com/yassineallaoui4/smart-roundabout-control-rl)
+
+---
+
+## 🎯 Technical Interests
+
+- Generative AI and Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Machine Learning and Deep Learning
+- Reinforcement Learning
+- Algorithms, Data Structures, and Software Engineering
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yassineallaoui4&show_icons=true&hide_border=true&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yassineallaoui4&layout=compact&hide_border=true&theme=transparent)
+
+---
+
+## 📫 Contact Me
+
+- 🌐 **Portfolio:** [Visit my website](https://yassine-allaoui.vercel.app)
+- 💼 **GitHub:** [@yassineallaoui4](https://github.com/yassineallaoui4)
+- 📧 **Email:** [yassine.allaoui24@ump.ac.ma](mailto:yassine.allaoui24@ump.ac.ma)
+
+---
+
+⭐ *Always learning, building, and exploring new ideas in computer science and artificial intelligence.*
